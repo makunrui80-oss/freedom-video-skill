@@ -22,7 +22,7 @@ Agent 层支持国内外大模型平台：Codex、Claude、Gemini、OpenClaw、H
 将仓库克隆到 Codex 的 Skill 目录：
 
 ```bash
-git clone https://github.com/<你的用户名>/freedom-video-skill.git ~/.codex/skills/freedom-video-skill
+git clone https://github.com/makunrui80-oss/freedom-video-skill.git ~/.codex/skills/freedom-video-skill
 ```
 
 然后用 `$freedom-video-skill` 调用：
