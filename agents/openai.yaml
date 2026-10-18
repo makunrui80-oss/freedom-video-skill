@@ -1,0 +1,6 @@
+interface:
+  display_name: "Freedom Video Skill"
+  short_description: "Generate videos with interchangeable AI video providers"
+  default_prompt: "Use $freedom-video-skill to create a video with the configured provider, optional Manim animation, Kokoro narration, subtitles, and cost safeguards."
+policy:
+  allow_implicit_invocation: true
